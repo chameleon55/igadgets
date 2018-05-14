@@ -6,9 +6,4 @@
       Hello, small world!
     ]]>
   </Content>
-  <Content type="html" view="canvas">
-    <![CDATA[
-      Hello, big world!
-    ]]>
-  </Content>
 </Module>
