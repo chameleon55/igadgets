@@ -1,7 +1,7 @@
 <Module>
-  <ModulePrefs Title="My Home">
+  <ModulePrefs title="My Home">
   </ModulePrefs>
-  <Content type="html" view="home">
+  <Content type="html">
     <![CDATA[
       Hello, small world!
     ]]>
