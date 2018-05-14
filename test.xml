@@ -1,6 +1,5 @@
 <Module>
   <ModulePrefs>
-    <Require feature="views" />
   </ModulePrefs>
   <Content type="html" view="home">
     <![CDATA[
