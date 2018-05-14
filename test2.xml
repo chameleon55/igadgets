@@ -2,6 +2,7 @@
 <Module>
   <ModulePrefs title="Go to Photo Album" height="250" scaling="false">
     <Require feature="dynamic-height"/>
+    <Require feature="views" />
   </ModulePrefs>
   <Content type="html">
   <![CDATA[
