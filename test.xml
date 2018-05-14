@@ -1,11 +1,5 @@
 <Module>
   <ModulePrefs>
-               title="Hello World"
-               directory_title="__MSG_gadget.introduction.title__"
-               description="__MSG_gadget.introduction.description__"
-               author="Atlassian"
-               author_affiliation="Atlassian" author_location="Sydney, Australia"
-               title_url="http://www.atlassian.com/"
     <Require feature="views" />
   </ModulePrefs>
   <Content type="html" view="home">
