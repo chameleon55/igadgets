@@ -1,5 +1,5 @@
 <Module>
-  <ModulePrefs>
+  <ModulePrefs Title="My Home">
   </ModulePrefs>
   <Content type="html" view="home">
     <![CDATA[
